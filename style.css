@@ -1,0 +1,36 @@
+*{
+    margin: auto;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image:   url('./assets/undraw_subscriber_vabu.svg') ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: normal;
+    /* background-color: #63FF87; */
+}
+
+h1{
+    font-size: 3em;
+    color: black;
+    padding: 100px;
+    height: 50vh;
+    width: 50vw;
+    border-radius: 20px;
+    margin: 0px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#card{
+    background-color: rgba(255, 255, 255, 0.623); 
+}

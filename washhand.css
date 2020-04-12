@@ -1,0 +1,23 @@
+*{
+    margin: auto;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image:   url('./assets/undraw_wash_hands_nwl2.svg') ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(0,0,0, 0.2);
+}
+
+h1{
+    font-size: 6vw;
+    color: black;
+    padding: 100px;
+}
